@@ -3,10 +3,10 @@
 1000000000000000S1
 111111111111111111
 
-NO ./../textures/NO.xpm
-SO ./../textures/SO.xpm
-WE ./../textures/WE.xpm
-EA ./../textures/EA.xpm
+NO ./Assets_tester/cub3D/textures/NO.xpm
+SO ./Assets_tester/cub3D/textures/SO.xpm
+WE ./Assets_tester/cub3D/textures/WE.xpm
+EA ./Assets_tester/cub3D/textures/EA.xpm
 
 F 220,100,0
 C 225,30,0
