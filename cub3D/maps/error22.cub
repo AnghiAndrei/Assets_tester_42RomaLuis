@@ -1,12 +1,12 @@
-NO ./Assets_tester/cub3D/textures/NO.xpm
+NO ./Assets_tester/cub3D/textures/invalid.xpm
 SO ./Assets_tester/cub3D/textures/SO.xpm
 WE ./Assets_tester/cub3D/textures/WE.xpm
 EA ./Assets_tester/cub3D/textures/EA.xpm
 
-F 156,156,156
-C -156,156,156
+F 220,100,0
+C 225,30,0
 
         1111111111
 111111111000000001
-1S0000000000000001
+100000000000S00001
 111111111111111111
