@@ -1,0 +1,1 @@
+shuf -i 1-500 -n 500 | tr "\\n" " " | head -c -2 > n.txt
